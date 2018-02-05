@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" name="Failed suite [Google Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.test.automation.FrameworkPractice.CustomListeners.TestListener"/>
+    <listener class-name="com.test.automation.FrameworkPractice.CustomListeners.RetryListener"/>
+  </listeners>
+  <test name="Smoke(failed)">
+    <classes>
+      <class name="com.test.automation.FrameworkPractice.testScripts.SearchQueryScript">
+        <methods>
+          <include name="setUp"/>
+          <include name="endTest"/>
+          <include name="test_GoogleSearch"/>
+        </methods>
+      </class> <!-- com.test.automation.FrameworkPractice.testScripts.SearchQueryScript -->
+    </classes>
+  </test> <!-- Smoke(failed) -->
+</suite> <!-- Failed suite [Google Suite] -->

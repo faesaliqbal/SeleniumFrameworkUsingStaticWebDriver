@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Google Suite">
+    <listeners>
+		<listener class-name="com.test.automation.FrameworkPractice.CustomListeners.TestListener"/>
+        <listener class-name="com.test.automation.FrameworkPractice.CustomListeners.RetryListener"/>
+    </listeners>
+    
+    <test name="Smoke">
+        <classes>
+            <class name="com.test.automation.FrameworkPractice.testScripts.SearchQueryScript"/>
+        </classes>
+    </test>
+    
+    <test name="Regression">
+        <classes>
+            <class name="com.test.automation.FrameworkPractice.testScripts.ResultsScript"/>
+        </classes>
+    </test>
+    
+</suite>

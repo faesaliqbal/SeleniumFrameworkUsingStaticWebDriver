@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[===========================Test started: Smoke===========================]]>
+    </line>
+    <line>
+      <![CDATA[navigating to: https://www.google.com/]]>
+    </line>
+    <line>
+      <![CDATA[trying to refresh page]]>
+    </line>
+    <line>
+      <![CDATA[==================Testcase started running: test_FeelingLuckySearch==================]]>
+    </line>
+    <line>
+      <![CDATA[trying to find element By.id: lst-ib]]>
+    </line>
+    <line>
+      <![CDATA[trying to find element By.id: lst-ib]]>
+    </line>
+    <line>
+      <![CDATA[trying to find element By.name: btnI]]>
+    </line>
+    <line>
+      <![CDATA[trying to click on [[ChromeDriver: chrome on MAC (f8448269e180605d925fedec551b2965)] -> name: btnI]]]>
+    </line>
+    <line>
+      <![CDATA[=========Testcase succeeded: test_FeelingLuckySearch=========/n]]>
+    </line>
+    <line>
+      <![CDATA[navigating to: https://www.google.com/]]>
+    </line>
+    <line>
+      <![CDATA[trying to refresh page]]>
+    </line>
+    <line>
+      <![CDATA[==================Testcase started running: test_GoogleSearch==================]]>
+    </line>
+    <line>
+      <![CDATA[trying to find element By.id: lst-ib]]>
+    </line>
+    <line>
+      <![CDATA[trying to find element By.id: lst-ib]]>
+    </line>
+    <line>
+      <![CDATA[trying to find element By.name: btnK]]>
+    </line>
+    <line>
+      <![CDATA[trying to click on [[ChromeDriver: chrome on MAC (4292a9849e15f7ca322a586218ee3841)] -> name: btnK]]]>
+    </line>
+    <line>
+      <![CDATA[=========Testcase succeeded: test_GoogleSearch=========/n]]>
+    </line>
+    <line>
+      <![CDATA[===========================Test fininshed: Smoke===========================]]>
+    </line>
+    <line>
+      <![CDATA[===========================Test started: Regression===========================]]>
+    </line>
+    <line>
+      <![CDATA[navigating to: https://www.google.com/]]>
+    </line>
+    <line>
+      <![CDATA[trying to refresh page]]>
+    </line>
+    <line>
+      <![CDATA[==================Testcase started running: test_Setings==================]]>
+    </line>
+    <line>
+      <![CDATA[trying to find element By.id: lst-ib]]>
+    </line>
+    <line>
+      <![CDATA[trying to find element By.id: lst-ib]]>
+    </line>
+    <line>
+      <![CDATA[trying to find element By.name: btnK]]>
+    </line>
+    <line>
+      <![CDATA[trying to click on [[ChromeDriver: chrome on MAC (93f418c11122f63b1ac6491c3aedd4e7)] -> name: btnK]]]>
+    </line>
+    <line>
+      <![CDATA[trying to find element By.id: abar_button_opt]]>
+    </line>
+    <line>
+      <![CDATA[trying to click on [[ChromeDriver: chrome on MAC (93f418c11122f63b1ac6491c3aedd4e7)] -> id: abar_button_opt]]]>
+    </line>
+    <line>
+      <![CDATA[=========Testcase succeeded: test_Setings=========/n]]>
+    </line>
+    <line>
+      <![CDATA[navigating to: https://www.google.com/]]>
+    </line>
+    <line>
+      <![CDATA[trying to refresh page]]>
+    </line>
+    <line>
+      <![CDATA[==================Testcase started running: test_Signin==================]]>
+    </line>
+    <line>
+      <![CDATA[trying to find element By.id: lst-ib]]>
+    </line>
+    <line>
+      <![CDATA[trying to find element By.id: lst-ib]]>
+    </line>
+    <line>
+      <![CDATA[trying to find element By.name: btnK]]>
+    </line>
+    <line>
+      <![CDATA[trying to click on [[ChromeDriver: chrome on MAC (545813b0b8658e905101bec973a8b91e)] -> name: btnK]]]>
+    </line>
+    <line>
+      <![CDATA[trying to find element By.id: gb_70]]>
+    </line>
+    <line>
+      <![CDATA[trying to click on [[ChromeDriver: chrome on MAC (545813b0b8658e905101bec973a8b91e)] -> id: gb_70]]]>
+    </line>
+    <line>
+      <![CDATA[=========Testcase succeeded: test_Signin=========/n]]>
+    </line>
+    <line>
+      <![CDATA[navigating to: https://www.google.com/]]>
+    </line>
+    <line>
+      <![CDATA[trying to refresh page]]>
+    </line>
+    <line>
+      <![CDATA[==================Testcase started running: test_Tools==================]]>
+    </line>
+    <line>
+      <![CDATA[trying to find element By.id: lst-ib]]>
+    </line>
+    <line>
+      <![CDATA[trying to find element By.id: lst-ib]]>
+    </line>
+    <line>
+      <![CDATA[trying to find element By.name: btnK]]>
+    </line>
+    <line>
+      <![CDATA[trying to click on [[ChromeDriver: chrome on MAC (3079341b9c78d4774f4db095b9387e3d)] -> name: btnK]]]>
+    </line>
+    <line>
+      <![CDATA[trying to find element By.id: hdtb-tls]]>
+    </line>
+    <line>
+      <![CDATA[trying to click on [[ChromeDriver: chrome on MAC (3079341b9c78d4774f4db095b9387e3d)] -> id: hdtb-tls]]]>
+    </line>
+    <line>
+      <![CDATA[=========Testcase succeeded: test_Tools=========/n]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2018-02-05T07:59:12Z" name="Google Suite" finished-at="2018-02-05T07:59:51Z" duration-ms="39542">
+    <groups>
+    </groups>
+    <test started-at="2018-02-05T07:59:12Z" name="Smoke" finished-at="2018-02-05T07:59:28Z" duration-ms="15642">
+      <class name="com.test.automation.FrameworkPractice.testScripts.SearchQueryScript">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.automation.FrameworkPractice.testScripts.SearchQueryScript@29647f75]" started-at="2018-02-05T12:59:12Z" name="setUp" finished-at="2018-02-05T12:59:17Z" duration-ms="5480" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[navigating to: https://www.google.com/]]>
+            </line>
+            <line>
+              <![CDATA[trying to refresh page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_FeelingLuckySearch()[pri:0, instance:com.test.automation.FrameworkPractice.testScripts.SearchQueryScript@29647f75]" started-at="2018-02-05T12:59:17Z" name="test_FeelingLuckySearch" finished-at="2018-02-05T12:59:21Z" duration-ms="3750" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==================Testcase started running: test_FeelingLuckySearch==================]]>
+            </line>
+            <line>
+              <![CDATA[trying to find element By.id: lst-ib]]>
+            </line>
+            <line>
+              <![CDATA[trying to find element By.id: lst-ib]]>
+            </line>
+            <line>
+              <![CDATA[trying to find element By.name: btnI]]>
+            </line>
+            <line>
+              <![CDATA[trying to click on [[ChromeDriver: chrome on MAC (f8448269e180605d925fedec551b2965)] -> name: btnI]]]>
+            </line>
+            <line>
+              <![CDATA[=========Testcase succeeded: test_FeelingLuckySearch=========/n]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_FeelingLuckySearch -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.test.automation.FrameworkPractice.testScripts.SearchQueryScript@29647f75]" started-at="2018-02-05T12:59:21Z" name="endTest" finished-at="2018-02-05T12:59:21Z" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.automation.FrameworkPractice.testScripts.SearchQueryScript@29647f75]" started-at="2018-02-05T12:59:21Z" name="setUp" finished-at="2018-02-05T12:59:26Z" duration-ms="4622" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[navigating to: https://www.google.com/]]>
+            </line>
+            <line>
+              <![CDATA[trying to refresh page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_GoogleSearch()[pri:0, instance:com.test.automation.FrameworkPractice.testScripts.SearchQueryScript@29647f75]" started-at="2018-02-05T12:59:26Z" name="test_GoogleSearch" finished-at="2018-02-05T12:59:27Z" duration-ms="1535" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==================Testcase started running: test_GoogleSearch==================]]>
+            </line>
+            <line>
+              <![CDATA[trying to find element By.id: lst-ib]]>
+            </line>
+            <line>
+              <![CDATA[trying to find element By.id: lst-ib]]>
+            </line>
+            <line>
+              <![CDATA[trying to find element By.name: btnK]]>
+            </line>
+            <line>
+              <![CDATA[trying to click on [[ChromeDriver: chrome on MAC (4292a9849e15f7ca322a586218ee3841)] -> name: btnK]]]>
+            </line>
+            <line>
+              <![CDATA[=========Testcase succeeded: test_GoogleSearch=========/n]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_GoogleSearch -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.test.automation.FrameworkPractice.testScripts.SearchQueryScript@29647f75]" started-at="2018-02-05T12:59:27Z" name="endTest" finished-at="2018-02-05T12:59:28Z" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.automation.FrameworkPractice.testScripts.SearchQueryScript -->
+    </test> <!-- Smoke -->
+    <test started-at="2018-02-05T07:59:28Z" name="Regression" finished-at="2018-02-05T07:59:51Z" duration-ms="23736">
+      <class name="com.test.automation.FrameworkPractice.testScripts.ResultsScript">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.automation.FrameworkPractice.testScripts.ResultsScript@79da8dc5]" started-at="2018-02-05T12:59:28Z" name="setUp" finished-at="2018-02-05T12:59:32Z" duration-ms="4109" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[navigating to: https://www.google.com/]]>
+            </line>
+            <line>
+              <![CDATA[trying to refresh page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_Setings()[pri:0, instance:com.test.automation.FrameworkPractice.testScripts.ResultsScript@79da8dc5]" started-at="2018-02-05T12:59:32Z" name="test_Setings" finished-at="2018-02-05T12:59:33Z" duration-ms="1644" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==================Testcase started running: test_Setings==================]]>
+            </line>
+            <line>
+              <![CDATA[trying to find element By.id: lst-ib]]>
+            </line>
+            <line>
+              <![CDATA[trying to find element By.id: lst-ib]]>
+            </line>
+            <line>
+              <![CDATA[trying to find element By.name: btnK]]>
+            </line>
+            <line>
+              <![CDATA[trying to click on [[ChromeDriver: chrome on MAC (93f418c11122f63b1ac6491c3aedd4e7)] -> name: btnK]]]>
+            </line>
+            <line>
+              <![CDATA[trying to find element By.id: abar_button_opt]]>
+            </line>
+            <line>
+              <![CDATA[trying to click on [[ChromeDriver: chrome on MAC (93f418c11122f63b1ac6491c3aedd4e7)] -> id: abar_button_opt]]]>
+            </line>
+            <line>
+              <![CDATA[=========Testcase succeeded: test_Setings=========/n]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_Setings -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.test.automation.FrameworkPractice.testScripts.ResultsScript@79da8dc5]" started-at="2018-02-05T12:59:33Z" name="endTest" finished-at="2018-02-05T12:59:34Z" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.automation.FrameworkPractice.testScripts.ResultsScript@79da8dc5]" started-at="2018-02-05T12:59:34Z" name="setUp" finished-at="2018-02-05T12:59:39Z" duration-ms="5042" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[navigating to: https://www.google.com/]]>
+            </line>
+            <line>
+              <![CDATA[trying to refresh page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_Signin()[pri:0, instance:com.test.automation.FrameworkPractice.testScripts.ResultsScript@79da8dc5]" started-at="2018-02-05T12:59:39Z" name="test_Signin" finished-at="2018-02-05T12:59:44Z" duration-ms="5671" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==================Testcase started running: test_Signin==================]]>
+            </line>
+            <line>
+              <![CDATA[trying to find element By.id: lst-ib]]>
+            </line>
+            <line>
+              <![CDATA[trying to find element By.id: lst-ib]]>
+            </line>
+            <line>
+              <![CDATA[trying to find element By.name: btnK]]>
+            </line>
+            <line>
+              <![CDATA[trying to click on [[ChromeDriver: chrome on MAC (545813b0b8658e905101bec973a8b91e)] -> name: btnK]]]>
+            </line>
+            <line>
+              <![CDATA[trying to find element By.id: gb_70]]>
+            </line>
+            <line>
+              <![CDATA[trying to click on [[ChromeDriver: chrome on MAC (545813b0b8658e905101bec973a8b91e)] -> id: gb_70]]]>
+            </line>
+            <line>
+              <![CDATA[=========Testcase succeeded: test_Signin=========/n]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_Signin -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.test.automation.FrameworkPractice.testScripts.ResultsScript@79da8dc5]" started-at="2018-02-05T12:59:44Z" name="endTest" finished-at="2018-02-05T12:59:44Z" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.automation.FrameworkPractice.testScripts.ResultsScript@79da8dc5]" started-at="2018-02-05T12:59:44Z" name="setUp" finished-at="2018-02-05T12:59:49Z" duration-ms="4870" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[navigating to: https://www.google.com/]]>
+            </line>
+            <line>
+              <![CDATA[trying to refresh page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_Tools()[pri:0, instance:com.test.automation.FrameworkPractice.testScripts.ResultsScript@79da8dc5]" started-at="2018-02-05T12:59:49Z" name="test_Tools" finished-at="2018-02-05T12:59:51Z" duration-ms="2042" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==================Testcase started running: test_Tools==================]]>
+            </line>
+            <line>
+              <![CDATA[trying to find element By.id: lst-ib]]>
+            </line>
+            <line>
+              <![CDATA[trying to find element By.id: lst-ib]]>
+            </line>
+            <line>
+              <![CDATA[trying to find element By.name: btnK]]>
+            </line>
+            <line>
+              <![CDATA[trying to click on [[ChromeDriver: chrome on MAC (3079341b9c78d4774f4db095b9387e3d)] -> name: btnK]]]>
+            </line>
+            <line>
+              <![CDATA[trying to find element By.id: hdtb-tls]]>
+            </line>
+            <line>
+              <![CDATA[trying to click on [[ChromeDriver: chrome on MAC (3079341b9c78d4774f4db095b9387e3d)] -> id: hdtb-tls]]]>
+            </line>
+            <line>
+              <![CDATA[=========Testcase succeeded: test_Tools=========/n]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_Tools -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.test.automation.FrameworkPractice.testScripts.ResultsScript@79da8dc5]" started-at="2018-02-05T12:59:51Z" name="endTest" finished-at="2018-02-05T12:59:51Z" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.automation.FrameworkPractice.testScripts.ResultsScript -->
+    </test> <!-- Regression -->
+  </suite> <!-- Google Suite -->
+</testng-results>

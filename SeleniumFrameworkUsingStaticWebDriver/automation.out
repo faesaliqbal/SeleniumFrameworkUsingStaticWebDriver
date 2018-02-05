@@ -1,0 +1,148 @@
+2018-02-01 13:07:15 INFO  TestBase:88 - ==================Testcase started running: test_GoogleSearch1==================
+2018-02-01 13:07:15 INFO  WebEventListener:103 - trying to find element By.id: lst-ib1234
+2018-02-01 13:07:35 INFO  WebEventListener:103 - exception occurred
+2018-02-01 13:07:36 INFO  TestBase:88 - screenshot captured:
+2018-02-01 13:07:36 INFO  TestBase:88 - <a href="/Users/faisaliqbal/Documents/EclipseWork/BuildingFrameworks/FrameworkPractice/src/main/java/com/test/automation/FrameworkPractice/screenshots/02-01-2018-13-35_test_GoogleSearch1.png"><img src="file:////Users/faisaliqbal/Documents/EclipseWork/BuildingFrameworks/FrameworkPractice/src/main/java/com/test/automation/FrameworkPractice/screenshots/02-01-2018-13-35_test_GoogleSearch1.png" alt=""height='100' width='100'/> <br />
+2018-02-01 13:07:36 INFO  TestBase:88 - =========Testcase failed: test_GoogleSearch1=========/n
+2018-02-01 13:07:36 INFO  TestBase:88 - ===========================Test fininshed: Smoke===========================
+2018-02-01 13:07:36 INFO  TestBase:88 - ===========================Test started: Regression===========================
+2018-02-01 13:07:36 INFO  TestBase:88 - ===========================Test fininshed: Regression===========================
+2018-02-01 13:38:50 INFO  TestBase:88 - ==================Testcase started running: test_GoogleSearch1==================
+2018-02-01 13:38:50 INFO  WebEventListener:103 - trying to find element By.id: lst-ib1234
+2018-02-01 13:39:10 INFO  WebEventListener:103 - exception occurred
+2018-02-01 13:39:10 INFO  TestBase:88 - =========Testcase skipped: test_GoogleSearch1=========/n
+2018-02-01 13:39:11 INFO  WebEventListener:103 - navigating to: https://www.google.com/
+2018-02-01 13:39:15 INFO  WebEventListener:103 - trying to refresh page
+2018-02-01 13:39:16 INFO  TestBase:88 - ==================Testcase started running: test_GoogleSearch1==================
+2018-02-01 13:39:16 INFO  WebEventListener:103 - trying to find element By.id: lst-ib1234
+2018-02-01 13:39:36 INFO  WebEventListener:103 - exception occurred
+2018-02-01 13:39:36 INFO  TestBase:88 - =========Testcase skipped: test_GoogleSearch1=========/n
+2018-02-01 13:39:37 INFO  WebEventListener:103 - navigating to: https://www.google.com/
+2018-02-01 13:39:41 INFO  WebEventListener:103 - trying to refresh page
+2018-02-01 13:39:42 INFO  TestBase:88 - ==================Testcase started running: test_GoogleSearch1==================
+2018-02-01 13:39:42 INFO  WebEventListener:103 - trying to find element By.id: lst-ib1234
+2018-02-01 13:40:02 INFO  WebEventListener:103 - exception occurred
+2018-02-01 13:40:02 INFO  TestBase:88 - =========Testcase skipped: test_GoogleSearch1=========/n
+2018-02-01 13:40:03 INFO  WebEventListener:103 - navigating to: https://www.google.com/
+2018-02-01 13:40:06 INFO  WebEventListener:103 - trying to refresh page
+2018-02-01 13:40:07 INFO  TestBase:88 - ==================Testcase started running: test_GoogleSearch1==================
+2018-02-01 13:40:07 INFO  WebEventListener:103 - trying to find element By.id: lst-ib1234
+2018-02-01 13:40:27 INFO  WebEventListener:103 - exception occurred
+2018-02-01 13:40:28 INFO  TestBase:88 - screenshot captured:
+2018-02-01 13:40:28 INFO  TestBase:88 - <a href="/Users/faisaliqbal/Documents/EclipseWork/BuildingFrameworks/FrameworkPractice/src/main/java/com/test/automation/FrameworkPractice/screenshots/02-01-2018-13-27_test_GoogleSearch1.png"><img src="file:////Users/faisaliqbal/Documents/EclipseWork/BuildingFrameworks/FrameworkPractice/src/main/java/com/test/automation/FrameworkPractice/screenshots/02-01-2018-13-27_test_GoogleSearch1.png" alt=""height='100' width='100'/> <br />
+2018-02-01 13:40:28 INFO  TestBase:88 - =========Testcase failed: test_GoogleSearch1=========/n
+2018-02-01 13:40:28 INFO  TestBase:88 - ===========================Test fininshed: Smoke===========================
+2018-02-01 13:40:28 INFO  TestBase:88 - ===========================Test started: Regression===========================
+2018-02-01 13:40:28 INFO  TestBase:88 - ===========================Test fininshed: Regression===========================
+2018-02-05 12:52:17 INFO  TestBase:88 - ==================Testcase started running: test_GoogleSearch==================
+2018-02-05 12:52:17 INFO  WebEventListener:103 - trying to find element By.id: lst-ib1234
+2018-02-05 12:52:33 INFO  TestBase:88 - =========Testcase skipped: test_GoogleSearch=========/n
+2018-02-05 12:52:34 INFO  WebEventListener:103 - navigating to: https://www.google.com/
+2018-02-05 12:52:35 INFO  WebEventListener:103 - exception occurred
+2018-02-05 12:52:35 INFO  TestBase:88 - =========Testcase skipped: test_GoogleSearch=========/n
+2018-02-05 12:52:35 INFO  TestBase:88 - ===========================Test fininshed: Smoke===========================
+2018-02-05 12:52:35 INFO  TestBase:88 - ===========================Test started: Regression===========================
+2018-02-05 12:52:35 INFO  TestBase:88 - ===========================Test fininshed: Regression===========================
+2018-02-05 12:53:05 INFO  TestBase:88 - ==================Testcase started running: test_GoogleSearch==================
+2018-02-05 12:53:05 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:53:05 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:53:05 INFO  WebEventListener:103 - trying to find element By.name: btnK
+2018-02-05 12:53:05 INFO  WebEventListener:103 - trying to click on [[ChromeDriver: chrome on MAC (19a9044b9e8899786891ddbf6dff9e90)] -> name: btnK]
+2018-02-05 12:53:07 INFO  TestBase:88 - =========Testcase succeeded: test_GoogleSearch=========/n
+2018-02-05 12:53:07 INFO  TestBase:88 - ===========================Test fininshed: Smoke===========================
+2018-02-05 12:53:07 INFO  TestBase:88 - ===========================Test started: Regression===========================
+2018-02-05 12:53:07 INFO  TestBase:88 - ===========================Test fininshed: Regression===========================
+2018-02-05 12:54:14 INFO  TestBase:88 - ==================Testcase started running: test_FeelingLuckySearch==================
+2018-02-05 12:54:14 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:54:14 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:54:14 INFO  WebEventListener:103 - trying to find element By.name: btnI
+2018-02-05 12:54:14 INFO  WebEventListener:103 - trying to click on [[ChromeDriver: chrome on MAC (d85368959ae5dbe606b587c2982e7b1e)] -> name: btnI]
+2018-02-05 12:54:18 INFO  TestBase:88 - =========Testcase succeeded: test_FeelingLuckySearch=========/n
+2018-02-05 12:54:19 INFO  WebEventListener:103 - navigating to: https://www.google.com/
+2018-02-05 12:54:21 INFO  WebEventListener:103 - trying to refresh page
+2018-02-05 12:54:22 INFO  TestBase:88 - ==================Testcase started running: test_GoogleSearch==================
+2018-02-05 12:54:22 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:54:22 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:54:22 INFO  WebEventListener:103 - trying to find element By.name: btnK
+2018-02-05 12:54:22 INFO  WebEventListener:103 - trying to click on [[ChromeDriver: chrome on MAC (bca3b353bb5d7f57a95691b69c093a63)] -> name: btnK]
+2018-02-05 12:54:23 INFO  TestBase:88 - =========Testcase succeeded: test_GoogleSearch=========/n
+2018-02-05 12:54:23 INFO  TestBase:88 - ===========================Test fininshed: Smoke===========================
+2018-02-05 12:54:23 INFO  TestBase:88 - ===========================Test started: Regression===========================
+2018-02-05 12:54:24 INFO  WebEventListener:103 - navigating to: https://www.google.com/
+2018-02-05 12:54:27 INFO  WebEventListener:103 - trying to refresh page
+2018-02-05 12:54:28 INFO  TestBase:88 - ==================Testcase started running: test_Setings==================
+2018-02-05 12:54:28 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:54:28 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:54:28 INFO  WebEventListener:103 - trying to find element By.name: btnK
+2018-02-05 12:54:28 INFO  WebEventListener:103 - trying to click on [[ChromeDriver: chrome on MAC (c8558d88657a1d072039a56ab204b98a)] -> name: btnK]
+2018-02-05 12:54:29 INFO  WebEventListener:103 - trying to find element By.id: abar_button_opt
+2018-02-05 12:54:29 INFO  WebEventListener:103 - trying to click on [[ChromeDriver: chrome on MAC (c8558d88657a1d072039a56ab204b98a)] -> id: abar_button_opt]
+2018-02-05 12:54:29 INFO  TestBase:88 - =========Testcase succeeded: test_Setings=========/n
+2018-02-05 12:54:30 INFO  WebEventListener:103 - navigating to: https://www.google.com/
+2018-02-05 12:54:33 INFO  WebEventListener:103 - trying to refresh page
+2018-02-05 12:54:34 INFO  TestBase:88 - ==================Testcase started running: test_Signin==================
+2018-02-05 12:54:34 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:54:34 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:54:34 INFO  WebEventListener:103 - trying to find element By.name: btnK
+2018-02-05 12:54:34 INFO  WebEventListener:103 - trying to click on [[ChromeDriver: chrome on MAC (62a500e8513e9fcc760a93ec18c93cf8)] -> name: btnK]
+2018-02-05 12:54:35 INFO  WebEventListener:103 - trying to find element By.id: gb_70
+2018-02-05 12:54:35 INFO  WebEventListener:103 - trying to click on [[ChromeDriver: chrome on MAC (62a500e8513e9fcc760a93ec18c93cf8)] -> id: gb_70]
+2018-02-05 12:54:39 INFO  TestBase:88 - =========Testcase succeeded: test_Signin=========/n
+2018-02-05 12:54:40 INFO  WebEventListener:103 - navigating to: https://www.google.com/
+2018-02-05 12:54:44 INFO  WebEventListener:103 - trying to refresh page
+2018-02-05 12:54:45 INFO  TestBase:88 - ==================Testcase started running: test_Tools==================
+2018-02-05 12:54:45 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:54:45 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:54:45 INFO  WebEventListener:103 - trying to find element By.name: btnK
+2018-02-05 12:54:45 INFO  WebEventListener:103 - trying to click on [[ChromeDriver: chrome on MAC (4b3953cda240e18d1542c37aaa198bf8)] -> name: btnK]
+2018-02-05 12:54:47 INFO  WebEventListener:103 - trying to find element By.id: hdtb-tls
+2018-02-05 12:54:47 INFO  WebEventListener:103 - trying to click on [[ChromeDriver: chrome on MAC (4b3953cda240e18d1542c37aaa198bf8)] -> id: hdtb-tls]
+2018-02-05 12:54:47 INFO  TestBase:88 - =========Testcase succeeded: test_Tools=========/n
+2018-02-05 12:54:47 INFO  TestBase:88 - ===========================Test fininshed: Regression===========================
+2018-02-05 12:59:17 INFO  TestBase:88 - ==================Testcase started running: test_FeelingLuckySearch==================
+2018-02-05 12:59:17 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:59:18 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:59:18 INFO  WebEventListener:103 - trying to find element By.name: btnI
+2018-02-05 12:59:18 INFO  WebEventListener:103 - trying to click on [[ChromeDriver: chrome on MAC (f8448269e180605d925fedec551b2965)] -> name: btnI]
+2018-02-05 12:59:21 INFO  TestBase:88 - =========Testcase succeeded: test_FeelingLuckySearch=========/n
+2018-02-05 12:59:22 INFO  WebEventListener:103 - navigating to: https://www.google.com/
+2018-02-05 12:59:25 INFO  WebEventListener:103 - trying to refresh page
+2018-02-05 12:59:26 INFO  TestBase:88 - ==================Testcase started running: test_GoogleSearch==================
+2018-02-05 12:59:26 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:59:26 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:59:26 INFO  WebEventListener:103 - trying to find element By.name: btnK
+2018-02-05 12:59:26 INFO  WebEventListener:103 - trying to click on [[ChromeDriver: chrome on MAC (4292a9849e15f7ca322a586218ee3841)] -> name: btnK]
+2018-02-05 12:59:27 INFO  TestBase:88 - =========Testcase succeeded: test_GoogleSearch=========/n
+2018-02-05 12:59:28 INFO  TestBase:88 - ===========================Test fininshed: Smoke===========================
+2018-02-05 12:59:28 INFO  TestBase:88 - ===========================Test started: Regression===========================
+2018-02-05 12:59:28 INFO  WebEventListener:103 - navigating to: https://www.google.com/
+2018-02-05 12:59:31 INFO  WebEventListener:103 - trying to refresh page
+2018-02-05 12:59:32 INFO  TestBase:88 - ==================Testcase started running: test_Setings==================
+2018-02-05 12:59:32 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:59:32 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:59:32 INFO  WebEventListener:103 - trying to find element By.name: btnK
+2018-02-05 12:59:32 INFO  WebEventListener:103 - trying to click on [[ChromeDriver: chrome on MAC (93f418c11122f63b1ac6491c3aedd4e7)] -> name: btnK]
+2018-02-05 12:59:33 INFO  WebEventListener:103 - trying to find element By.id: abar_button_opt
+2018-02-05 12:59:33 INFO  WebEventListener:103 - trying to click on [[ChromeDriver: chrome on MAC (93f418c11122f63b1ac6491c3aedd4e7)] -> id: abar_button_opt]
+2018-02-05 12:59:33 INFO  TestBase:88 - =========Testcase succeeded: test_Setings=========/n
+2018-02-05 12:59:34 INFO  WebEventListener:103 - navigating to: https://www.google.com/
+2018-02-05 12:59:38 INFO  WebEventListener:103 - trying to refresh page
+2018-02-05 12:59:39 INFO  TestBase:88 - ==================Testcase started running: test_Signin==================
+2018-02-05 12:59:39 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:59:39 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:59:39 INFO  WebEventListener:103 - trying to find element By.name: btnK
+2018-02-05 12:59:39 INFO  WebEventListener:103 - trying to click on [[ChromeDriver: chrome on MAC (545813b0b8658e905101bec973a8b91e)] -> name: btnK]
+2018-02-05 12:59:41 INFO  WebEventListener:103 - trying to find element By.id: gb_70
+2018-02-05 12:59:41 INFO  WebEventListener:103 - trying to click on [[ChromeDriver: chrome on MAC (545813b0b8658e905101bec973a8b91e)] -> id: gb_70]
+2018-02-05 12:59:44 INFO  TestBase:88 - =========Testcase succeeded: test_Signin=========/n
+2018-02-05 12:59:45 INFO  WebEventListener:103 - navigating to: https://www.google.com/
+2018-02-05 12:59:48 INFO  WebEventListener:103 - trying to refresh page
+2018-02-05 12:59:49 INFO  TestBase:88 - ==================Testcase started running: test_Tools==================
+2018-02-05 12:59:49 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:59:49 INFO  WebEventListener:103 - trying to find element By.id: lst-ib
+2018-02-05 12:59:50 INFO  WebEventListener:103 - trying to find element By.name: btnK
+2018-02-05 12:59:50 INFO  WebEventListener:103 - trying to click on [[ChromeDriver: chrome on MAC (3079341b9c78d4774f4db095b9387e3d)] -> name: btnK]
+2018-02-05 12:59:51 INFO  WebEventListener:103 - trying to find element By.id: hdtb-tls
+2018-02-05 12:59:51 INFO  WebEventListener:103 - trying to click on [[ChromeDriver: chrome on MAC (3079341b9c78d4774f4db095b9387e3d)] -> id: hdtb-tls]
+2018-02-05 12:59:51 INFO  TestBase:88 - =========Testcase succeeded: test_Tools=========/n
+2018-02-05 12:59:51 INFO  TestBase:88 - ===========================Test fininshed: Regression===========================
